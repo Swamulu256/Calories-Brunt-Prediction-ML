@@ -76,6 +76,7 @@ calories-burnt-prediction-ml/
 
 ▶️ How to Run the Project Locally
 1️⃣ Clone the Repository
+Clone the Repository git clone https://github.com/Swamulu256/Calories-Brunt-Prediction-ML.git 
 cd calories-burnt-prediction-ml
 
 2️⃣ Create & Activate Virtual Environment
