@@ -76,7 +76,6 @@ calories-burnt-prediction-ml/
 
 ▶️ How to Run the Project Locally
 1️⃣ Clone the Repository
-git clone https://github.com/amareshtoxico/calories-burnt-prediction-ml.git
 cd calories-burnt-prediction-ml
 
 2️⃣ Create & Activate Virtual Environment
