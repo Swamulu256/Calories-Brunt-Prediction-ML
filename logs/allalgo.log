@@ -1,0 +1,22 @@
+2026-02-05 19:49:07,561 - allalgo - INFO - Intercept: 89.77759384893214
+2026-02-05 19:49:07,561 - allalgo - INFO - Coefficients: [  8.49993643  -2.41358247   4.2962984   55.02693636  18.99300727
+ -13.1794759   -1.37420282]
+2026-02-05 19:49:07,566 - allalgo - INFO -        ytrain       ypred
+6044     51.0   57.087976
+3586     31.0   32.770208
+9222    194.0  194.171333
+4249     36.0   44.439106
+2482     93.0  103.939289
+5797     52.0   55.623186
+12326    98.0  114.134656
+6357    183.0  163.851429
+2632    225.0  214.599566
+10470    75.0   79.143608
+2026-02-05 19:49:07,566 - allalgo - INFO - Index(['Age', 'Height', 'Weight', 'Duration', 'Heart_Rate', 'Body_Temp',
+       'Gender_male'],
+      dtype='object')
+2026-02-05 19:49:07,566 - allalgo - INFO - Linear Regression r2_score: 0.9671621074066676
+2026-02-05 19:49:07,566 - allalgo - INFO - Linear Regression loss: 126.94582456688234
+2026-02-05 19:49:07,566 - allalgo - INFO - Linear Regression r2_score: 0.9672937151257295
+2026-02-05 19:49:07,566 - allalgo - INFO - Linear Regression loss: 131.995745750817
+2026-02-05 19:49:07,577 - allalgo - INFO -  Prediction was: [-630.31747338]

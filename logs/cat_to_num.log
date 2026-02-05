@@ -1,0 +1,4 @@
+2026-02-05 19:49:07,394 - cat_to_num - INFO - Index(['Gender'], dtype='object')
+2026-02-05 19:49:07,394 - cat_to_num - INFO - Gender--->['male' 'female']
+2026-02-05 19:49:07,413 - cat_to_num - INFO - Index(['Gender_male'], dtype='object')
+2026-02-05 19:49:07,413 - cat_to_num - INFO - Index(['Gender_male'], dtype='object')
